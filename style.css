@@ -1,0 +1,134 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+.header{
+	background: url(https://toyota.kharkov.ua/wp-content/uploads/2021/03/novij-toyota-rav4-plug-in-hybrid-efektivnij-ta-druzhnij-do-dovkillja.jpg);
+	background-size: cover;
+	background-position: left;
+	background-attachment: fixed;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+
+.overlay{
+	background-color: rgba(169, 169, 169, 0);
+	position: absolute;
+	min-width: 100%;
+	min-height: 100%;
+	left: 0;
+	right: 0;
+}
+
+.header-content{
+	position: absolute;
+	top: 20%;
+	padding: 2rem;
+	margin: auto;
+	color: white;
+	min-width: 100%;
+	
+}
+
+.text_about{
+	letter-spacing: 5px;
+}
+
+.header-content h1{
+	letter-spacing: 0.7rem;
+}
+
+.about{
+	padding-bottom: 5em;
+	padding-top: 5em;
+}
+
+.about h1{
+	padding: 1em;
+}
+
+.about_car{
+	border-right: 2px solid black;
+	padding: 0 1em;
+
+}
+
+.header_about{
+	padding-left: 6?em;
+}
+
+.container{
+	margin-top: 4em;
+}
+
+.our_cars{
+	color: white;
+	padding-top: 2em;
+}
+
+.cars{
+	padding-bottom: 5em;
+	background-color: #333b3f;
+}
+
+.cars_our{
+	padding-top: 3em;
+}
+
+.row_2{
+	margin-top: 2em;
+	padding-top: 3em;
+}
+
+.card-body h4{
+	letter-spacing: 2px;
+}
+
+.order{
+	padding-top: 2em;
+	padding-bottom: 5em;
+	margin-top: 2em;
+	background-color: #333b3f;
+}
+
+.products{
+	color: white;
+	padding-top: 2em;
+	letter-spacing: 5px;
+}
+
+.team{
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+.team img{
+	border: 5px solid #333b3f;
+}
+
+.des{
+	background-color: #333b3f;
+	font-size: 1.2em;
+	color: white;
+	width: 210px;
+
+}
+
+span{
+	display: block;
+
+}
+
+.content{
+	padding-top: 5em;
+	padding-bottom: 5em;
+	background-color: #333b3f;
+	color: white;
+}
+
+
+
+
+
